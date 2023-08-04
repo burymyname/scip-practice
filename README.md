@@ -23,6 +23,10 @@
         - [1.15](/chapter1/1_15.py)
         - [1.17](/chapter1/1_17.py)
 
+- Chapter2: Building Abstractions with Data
+    - 2.1: Introduction to Data Abstraction
+        - [2.1](./chapter2/2_1.py)
+
 - Others
     - [count change](/scip-count-change.py)
     - [fermat test](/scip-fermat-test.py)
